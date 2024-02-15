@@ -120,6 +120,7 @@ class _MyYandexMapState extends State<MyYandexMap> {
                     Point(latitude: 56.04956, longitude: 125.07751),
                   ],
                 ),
+
                 innerRings: [
                   LinearRing(
                     points: [
